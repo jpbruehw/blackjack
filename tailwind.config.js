@@ -70,7 +70,7 @@ export default {
         },
         expandHeight: {
           '0%': { height: '70%' },
-          '100%': { height: '90%' },
+          '100%': { height: '80%' },
         },
         shrinkHeight: {
           '0%': { height: '100%' },
